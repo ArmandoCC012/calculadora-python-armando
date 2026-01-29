@@ -1,4 +1,4 @@
-#Set
+#Eliminar Dupli con Set
 i=0
 Lista_Natural=[]
 SetNumero=set([])

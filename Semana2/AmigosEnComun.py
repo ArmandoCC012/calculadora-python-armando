@@ -1,3 +1,4 @@
+#Amigos En Comun
 MisAmigosArmando={"Jana","Tiara","Jonas","Ulrich","Kevin"}
 AmigosDeJonas={"Arnold","Armando","Jonas","Erica","Marta"}
 ListaComunes=[]
